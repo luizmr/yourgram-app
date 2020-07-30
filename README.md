@@ -32,10 +32,10 @@ In addition, it is good to have an editor to work with the code as **[VSCode](ht
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/luizmr/pokedex-app.git
+$ git clone https://github.com/luizmr/yourgram-app.git
 
 # Access the project folder in the cmd/terminal
-$ cd pokedex-app
+$ cd yourgram-app
 
 # Use the command below to install all dependencies
 $ npm install
